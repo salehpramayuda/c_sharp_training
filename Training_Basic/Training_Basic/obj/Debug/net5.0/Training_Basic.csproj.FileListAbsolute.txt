@@ -1,0 +1,16 @@
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.exe
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.deps.json
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.runtimeconfig.json
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.runtimeconfig.dev.json
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.dll
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\ref\Training_Basic.dll
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\bin\Debug\net5.0\Training_Basic.pdb
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.csproj.AssemblyReference.cache
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.AssemblyInfoInputs.cache
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.AssemblyInfo.cs
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.csproj.CoreCompileInputs.cache
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.dll
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\ref\Training_Basic.dll
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.pdb
+D:\studium\informatik\c_sharp_training\Training_Basic\Training_Basic\obj\Debug\net5.0\Training_Basic.genruntimeconfig.cache
